@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I love to code! ✨
+
+### 🔡 Languages I know
+
+QBasic
+C
+C++
+Java
+Python
+
 <!--
 **OmBiradar/OmBiradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
