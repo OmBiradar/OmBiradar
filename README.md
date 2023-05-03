@@ -7,7 +7,7 @@
 ### - 💬 Ask me about anything
 ### - 📫 How to reach me: Phone number : +919110806402
 ### - 😄 Pronouns: He/Him
-### - ⚡ Fun fact: I don' look like an IITian, but I am
+### - ⚡ Fun fact: I don't like milk
 <!--
 **OmBiradar/OmBiradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
