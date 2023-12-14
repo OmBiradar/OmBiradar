@@ -1,1 +1,1 @@
-# Just a normal guy looking to be cool
+# A wanna be Master in Codeforces
