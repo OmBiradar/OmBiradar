@@ -1,3 +1,18 @@
+<div align="center">
+  <a href="https://github.com/OmBiradar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/om-biradar-2b4a981bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://codeforces.com/profile/om_biradar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="mailto:ombiradar04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div> 
+
 # 💻 Hello, World! I'm [Your Name] 👋
 
 🎓 **Student @ IIT BHU**  
@@ -13,15 +28,14 @@ I’m passionate about solving challenging problems and building impactful softw
 
 ## 🔧 Technologies & Tools
 - **Languages**: C++, Python, JavaScript, Rust  
-- **Frameworks & Libraries**: [Add frameworks you use]  
-- **Tools**: [Add tools like Git, Docker, etc.]  
-- **Platforms**: [Add platforms like Linux, etc.]  
+- **Frameworks & Libraries**: React, ExpressJS
+- **Tools**: Git, Docker  
+- **Platforms**: Linux, Windows  
 
 ---
 
 ## 📈 Competitive Programming
-- **Codeforces**: [1344 Rating](https://codeforces.com/profile/YourUsername)  
-- **Other Platforms**: [List other competitive platforms if applicable]  
+- **Codeforces**: [1341 Rating](https://codeforces.com/profile/om_biradar)   
 
 ---
 
@@ -29,13 +43,6 @@ I’m passionate about solving challenging problems and building impactful softw
 - Advanced Rust programming  
 - Building scalable backend systems  
 - Quantum Cryptography and Networking  
-
----
-
-## 📫 Get in Touch
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **GitHub**: [Your GitHub Profile]  
 
 ---
 
