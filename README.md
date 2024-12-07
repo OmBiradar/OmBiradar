@@ -13,7 +13,7 @@
   </a>
 </div> 
 
-# 💻 Hello, World! I'm [Your Name] 👋
+# 💻 Hello, World! I'm Om Biradar 👋
 
 🎓 **Student @ IIT BHU**  
 🚀 **Software Developer** | Proficient in **C++**, **Python**, **JavaScript**, and **Rust**  
