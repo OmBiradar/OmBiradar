@@ -27,7 +27,7 @@ I’m passionate about solving challenging problems and building impactful softw
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages**: C++, Python, JavaScript, Rust  
+- **Languages**: C++, Python, JavaScript, Rust, Go
 - **Frameworks & Libraries**: React, ExpressJS
 - **Tools**: Git, Docker  
 - **Platforms**: Linux, Windows  
@@ -40,6 +40,7 @@ I’m passionate about solving challenging problems and building impactful softw
 ---
 
 ## 🌱 What I'm Currently Learning
+- Advanced Go lang and modules
 - Advanced Rust programming  
 - Building scalable backend systems  
 - Quantum Cryptography and Networking  
