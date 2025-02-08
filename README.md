@@ -13,6 +13,8 @@
   </a>
 </div> 
 
+![OmBiradar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&theme=transparent)
+
 # 💻 Hello, World! I'm Om Biradar 👋
 
 🎓 **Student @ IIT BHU**  
