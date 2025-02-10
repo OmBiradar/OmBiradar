@@ -17,7 +17,7 @@
 # 💻 Hello, World! I'm Om Biradar 👋
 
 🎓 **Student @ IIT BHU**  
-🚀 **Software Developer** | Proficient in **C++**, **Python**, **JavaScript**, and **Rust**  
+🚀 **Software Developer** | Proficient in **Go**, **C++**, **Python**, **JavaScript**, and **Rust**  
   ⚡ **Competitive Programmer** | Codeforces Rating: **1498 <span style="color: green;">Specialist</span>**  
 
 ---
