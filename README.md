@@ -18,7 +18,7 @@
 
 🎓 **Student @ IIT BHU**  
 🚀 **Software Developer** | Proficient in **C++**, **Python**, **JavaScript**, and **Rust**  
-⚡ **Competitive Programmer** | Codeforces Rating: **1498 *Specialist**  
+  ⚡ **Competitive Programmer** | Codeforces Rating: **1498 <span style="color: green;">Specialist</span>**  
 
 ---
 
