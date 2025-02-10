@@ -36,7 +36,7 @@ I’m passionate about solving challenging problems and building impactful softw
 ---
 
 ## 📈 Competitive Programming
-- **Codeforces**: [1341 Rating](https://codeforces.com/profile/om_biradar)   
+- **Codeforces**: [1498 Rating](https://codeforces.com/profile/om_biradar)   
 
 ---
 
