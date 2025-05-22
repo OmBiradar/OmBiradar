@@ -13,10 +13,6 @@
   </a>
 </div>  -->
 
-
-# 💻 Hello, World! I'm Om Biradar 👋
-
-
 📍 Indian Institute of Technology, Varanasi
 
 <div align="center">
