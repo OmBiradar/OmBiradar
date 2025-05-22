@@ -21,15 +21,17 @@
 
 </div>
 
-> ### ☕ **Caffeine-fueled dev** exploring computer systems and **contributing to open source** in my free time ⚡
+> NOTE: ☕ **Caffeine-fueled**
 
-## 🛠️ Interesting Stuff here
+### Interesting Stuff here
 
 - **Paper Implementation** 
     - 🔑 Quantum Key Distribution optimization while minimizing attack surface | 📄 [Paper](https://ieeexplore.ieee.org/document/10380212) | ✍🏻 [My Implementation](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
 
 - **Machine Learning**
     - 📈 Comparing ML models on financial time series data - (LSTM, ARIMA)
+    - ⛓️ Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
+    - 🩻 ResNET based Pnemonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
 - **Backend**
     - 🔐 Authentication in Go lang
