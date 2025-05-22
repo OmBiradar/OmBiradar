@@ -20,10 +20,12 @@
 🔗 **Open Source Contributor** - [sktime](https://github.com/sktime/sktime) | 🏆 **Competitive Programming** [1527@codeforces](https://codeforces.com/profile/om_biradar) | 💻 **Python, C++, Go, JS & related**
 
 </div>
+<!-- 
+> NOTE: ☕ **Caffeine-fueled** -->
 
-> NOTE: ☕ **Caffeine-fueled**
+<!-- ### Interesting Stuff here -->
 
-### Interesting Stuff here
+Stuff I do...
 
 - **Paper Implementation** 
     - 🔑 Quantum Key Distribution optimization while minimizing attack surface | 📄 [Paper](https://ieeexplore.ieee.org/document/10380212) | ✍🏻 [My Implementation](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
