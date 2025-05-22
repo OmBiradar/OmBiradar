@@ -26,7 +26,7 @@
 ## 🛠️ Interesting Stuff here
 
 - **Paper Implementation** 
-    - 🔑 Quantum Key Distribution optimization while minimizing attack surfaceQuantum Key Distribution optimization while minimizing attack surface
+    - 🔑 Quantum Key Distribution optimization while minimizing attack surface | 📄 [Paper](https://ieeexplore.ieee.org/document/10380212) | ✍🏻 [My Implementation](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
 
 - **Machine Learning**
     - 📈 Comparing ML models on financial time series data - (LSTM, ARIMA)
