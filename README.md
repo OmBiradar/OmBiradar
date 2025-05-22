@@ -28,8 +28,8 @@
 - **Paper Implementation** 
     - 🔑 Quantum Key Distribution optimization while minimizing attack surfaceQuantum Key Distribution optimization while minimizing attack surface
 
-- Benchmarking
+- **Machine Learning**
     - 📈 Comparing ML models on financial time series data - (LSTM, ARIMA)
 
-- Backend
+- **Backend**
     - 🔐 Authentication in Go lang
