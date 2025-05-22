@@ -17,7 +17,7 @@
 
 <div align="center">
   
-🔗 **Open Source Contributor** - [sktime](https://github.com/sktime/sktime) | 🏆 **Competitive Programming** [1527@codeforces](https://codeforces.com/profile/om_biradar) | 💻 **Python, C++, Go, JS & related**
+🔗 **Open Source Contributor** - [sktime](https://github.com/sktime/sktime) | 🏆 **Competitive Programming** [1527@codeforces](https://codeforces.com/profile/om_biradar) | 💻 **Python, C++, Go, JS & related | Containers & operations**
 
 </div>
 <!-- 
@@ -35,5 +35,9 @@ Stuff I do...
     - ⛓️ Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
     - 🩻 ResNET based Pnemonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
-- **Backend**
-    - 🔐 Authentication in Go lang
+- **Cryptographic**
+    - 🔐 [LockSmith](https://github.com/OmBiradar/locksmith) - an all in one personal password storage
+
+- **Web dev works**
+    - 📃 [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of Backend 
+    - 🖥 [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
