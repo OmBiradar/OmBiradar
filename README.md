@@ -1,10 +1,9 @@
 📍 Indian Institute of Technology, Varanasi
 
-<div align="center">
   
-🔗 **Open Source Contributor** - [sktime](https://github.com/sktime/sktime) | 🏆 **Competitive Programming** [1527@codeforces](https://codeforces.com/profile/om_biradar) | 💻 **Python, C++, Go, JS & related | Containers & operations**
+Been:
+- **LFX Mentee** at [RSTUF](https://github.com/repository-service-tuf/repository-service-tuf)
 
-</div>
 <!-- 
 > NOTE: ☕ **Caffeine-fueled** -->
 
@@ -13,18 +12,17 @@
 Stuff I do...
 
 - **Paper Implementation** 
-    - Quantum Key Distribution optimization while minimizing attack surface | [Paper](https://ieeexplore.ieee.org/document/10380212) | [My Implementation](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
+    - Key distribution in QKD | [Paper](https://ieeexplore.ieee.org/document/10380212) | [Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
 
 - **Machine Learning**
-    - Comparing ML models on financial time series data - (LSTM, ARIMA)
     - Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
     - ResNET based Pnemonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
-- **npm packages**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm logo" width="40" style="vertical-align:middle"> [`dad-jokes`](https://www.npmjs.com/package/@ombiradar/dad-jokes) - creative one liner jokes
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm logo" width="40" style="vertical-align:middle"> **npm packages**
+  - [`dad-jokes`](https://www.npmjs.com/package/@ombiradar/dad-jokes) - creative one liner jokes
 
-- **Cryptographic**
-    - [LockSmith](https://github.com/OmBiradar/locksmith) - an all in one personal password storage
+<!-- - **Cryptographic**
+    - [LockSmith](https://github.com/OmBiradar/locksmith) - an all in one personal password storage -->
 
 - **Web dev works**
     - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of Backend 
