@@ -26,10 +26,10 @@ Stuff I do...
  
 
 ### Stats
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; gap: 8px;">
 
   <!-- Top Languages Card -->
-  <div style="width: 42%; height: 100px;">
+  <div style="flex: 1;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook"
@@ -42,13 +42,13 @@ Stuff I do...
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" 
         alt="OmBiradar's Top Languages"
-        style="width: 100%; height: 100%;"
+        style="width: 100%;"
       />
     </picture>
   </div>
 
   <!-- GitHub Stats Card -->
-  <div style="width: 56%; height: 100px;">
+  <div style="flex: 1;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en&theme=dracula"
@@ -61,7 +61,7 @@ Stuff I do...
       <img 
         src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" 
         alt="OmBiradar's GitHub Stats"
-        style="width: 100%; height: 100%;"
+        style="width: 100%;"
       />
     </picture>
   </div>
