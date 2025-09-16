@@ -4,10 +4,6 @@
 Been:
 - **LFX Mentee** at [RSTUF](https://github.com/repository-service-tuf/repository-service-tuf)
 
-<!-- 
-> NOTE: ☕ **Caffeine-fueled** -->
-
-<!-- ### Interesting Stuff here -->
 
 Stuff I do...
 
@@ -18,7 +14,7 @@ Stuff I do...
     - Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
     - ResNET based Pnemonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm logo" width="40" style="vertical-align:middle"> **npm packages**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm logo" width="40" style="vertical-align:middle"> **packages**
   - [`dad-jokes`](https://www.npmjs.com/package/@ombiradar/dad-jokes) - creative one liner jokes
 
 <!-- - **Cryptographic**
@@ -29,9 +25,45 @@ Stuff I do...
     - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
  
 
-
 ### Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact" alt="OmBiradar" style="width: 42%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" alt="OmBiradar" style="width: 56%; height: 200px;" />
+
+  <!-- Top Languages Card -->
+  <div style="width: 42%; height: 200px;">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" 
+        alt="OmBiradar's Top Languages"
+        style="width: 100%; height: 100%;"
+      />
+    </picture>
+  </div>
+
+  <!-- GitHub Stats Card -->
+  <div style="width: 56%; height: 200px;">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en&theme=dracula"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" 
+        alt="OmBiradar's GitHub Stats"
+        style="width: 100%; height: 100%;"
+      />
+    </picture>
+  </div>
+
 </div>
