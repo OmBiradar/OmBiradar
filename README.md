@@ -12,15 +12,15 @@ Stuff I do...
 
 - **Machine Learning**
     - Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
-    - ResNET based Pnemonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
+    - ResNET-based Pneumonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm logo" width="40" style="vertical-align:middle"> **packages**
   - [`dad-jokes`](https://www.npmjs.com/package/@ombiradar/dad-jokes) - creative one liner jokes
 
 <!-- - **Cryptographic**
-    - [LockSmith](https://github.com/OmBiradar/locksmith) - an all in one personal password storage -->
+    - [LockSmith](https://github.com/OmBiradar/locksmith) - an all-in-one personal password storage -->
 
-- **Web dev works**
+- **backend systems**
     - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of iLovePDF 
     - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
 
