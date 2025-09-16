@@ -25,7 +25,7 @@ Stuff I do...
     - [LockSmith](https://github.com/OmBiradar/locksmith) - an all in one personal password storage -->
 
 - **Web dev works**
-    - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of Backend 
+    - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of iLovePDF 
     - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
  
 
