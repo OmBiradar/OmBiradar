@@ -34,6 +34,6 @@ Stuff I do...
 
 ### Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact" alt="OmBiradar" style="width: 40%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" alt="OmBiradar" style="width: 53%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact" alt="OmBiradar" style="width: 42%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" alt="OmBiradar" style="width: 56%; height: 200px;" />
 </div>
