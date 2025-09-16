@@ -29,7 +29,7 @@ Stuff I do...
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Top Languages Card -->
-  <div style="width: 42%; height: 200px;">
+  <div style="width: 42%; height: 100px;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook"
@@ -48,7 +48,7 @@ Stuff I do...
   </div>
 
   <!-- GitHub Stats Card -->
-  <div style="width: 56%; height: 200px;">
+  <div style="width: 56%; height: 100px;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en&theme=dracula"
