@@ -35,6 +35,9 @@ Stuff I do...
     - ⛓️ Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
     - 🩻 ResNET based Pnemonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
+- **npm packages**
+  - [`dad-jokes`](https://www.npmjs.com/package/@ombiradar/dad-jokes) - creative one liner jokes
+
 - **Cryptographic**
     - 🔐 [LockSmith](https://github.com/OmBiradar/locksmith) - an all in one personal password storage
 
