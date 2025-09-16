@@ -1,18 +1,3 @@
-<!-- <div align="center">
-  <a href="https://github.com/OmBiradar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/om-biradar-2b4a981bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://codeforces.com/profile/om_biradar" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="mailto:ombiradar04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>  -->
-
 📍 Indian Institute of Technology, Varanasi
 
 <div align="center">
@@ -49,6 +34,6 @@ Stuff I do...
 
 ### Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact" alt="OmBiradar" style="width: 50%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" alt="OmBiradar" style="width: 66%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmBiradar&show_icons=true&locale=en&layout=compact" alt="OmBiradar" style="width: 30%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmBiradar&show_icons=true&locale=en" alt="OmBiradar" style="width: 40%; height: 200px;" />
 </div>
