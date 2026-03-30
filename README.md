@@ -1,14 +1,19 @@
 📍 Indian Institute of Technology, Varanasi
 
+## I use Arch, btw
+
   
 Been:
 - **LFX Mentee** at [RSTUF](https://github.com/repository-service-tuf/repository-service-tuf)
 
-
-Stuff I do...
+Stuff I did...
 
 - **Paper Implementation** 
-    - Key distribution in QKD | [Paper](https://ieeexplore.ieee.org/document/10380212) | [Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
+    - Key distribution in Quantum Key Distribution systems | [Paper](https://ieeexplore.ieee.org/document/10380212) | [Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
+
+- **backend systems**
+    - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of iLovePDF 
+    - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
 
 - **Machine Learning**
     - Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
@@ -20,9 +25,6 @@ Stuff I do...
 <!-- - **Cryptographic**
     - [LockSmith](https://github.com/OmBiradar/locksmith) - an all-in-one personal password storage -->
 
-- **backend systems**
-    - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of iLovePDF 
-    - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
 
 | Top Languages                                                                                                                                                                                                                                                        | GitHub Stats                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
