@@ -7,7 +7,7 @@
 
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
 
-**`Key distribution in Quantum Key Distribution systems`** | [Paper](https://ieeexplore.ieee.org/document/10380212) | [Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
+**`Key distribution in Quantum Key Distribution systems`** | **[`Paper`](https://ieeexplore.ieee.org/document/10380212)** | **[`Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)`**
 
 Some cool **`backend systems`**
   - **[`MyLoveForPDFs`](https://github.com/OmBiradar/my-love-for-pdfs)** - a clone of iLovePDF 
