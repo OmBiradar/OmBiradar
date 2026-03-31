@@ -8,7 +8,6 @@ _<h4 align=center> "Stat maxxing my life" </h4>_
 
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
 
-_Languages as my strengths_ : 
 -  **`C++`** - Really deep understanding thanks to _[`these slides`](https://github.com/federico-busato/Modern-CPP-Programming)_ also _vaste interview experience_, I do _competitive programing_ in C++.
 -  **`Python`** - Good. I aim to develop _architectural understanding_ of complex Python only libraries.
 -  **`Go`** - never used it beyond usual projects, would love to explore.
