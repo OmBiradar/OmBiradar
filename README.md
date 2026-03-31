@@ -6,7 +6,7 @@ _<h4 align=center> "Stat maxxing my life" </h4>_
  
 **[`1924 @ CodeForces`](https://codeforces.com/profile/om_biradar)** **[`1971 @ LeetCode`](https://leetcode.com/u/OmBiradar/)** **[`LinkedIn`](https://www.linkedin.com/in/om-biradar-2b4a981bb/)** 
 
-**`Upcoming SWE at`** **[`NatWest Group`](https://www.natwestgroup.com/)**
+**`Upcoming SWE at`** **[`NatWest Group`](https://www.natwestgroup.com/)** - Joining Aug 2026 :)
 
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
 
