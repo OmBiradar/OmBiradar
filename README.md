@@ -1,8 +1,8 @@
 📍 Indian Institute of Technology, Varanasi
 
-## _I use Arch, btw_
+<h3 align=center> I use Arch, btw </h3> <br>
 
-[CodeForces](https://codeforces.com/profile/om_biradar) [LeetCode](https://leetcode.com/u/OmBiradar/) [LinkedIn](https://www.linkedin.com/in/om-biradar-2b4a981bb/)
+**[`CodeForces`](https://codeforces.com/profile/om_biradar)** **[`LeetCode`](https://leetcode.com/u/OmBiradar/)** **[`LinkedIn`](https://www.linkedin.com/in/om-biradar-2b4a981bb/)**
   
 Been:
 - **LFX Mentee** at [RSTUF](https://github.com/repository-service-tuf/repository-service-tuf)
