@@ -10,7 +10,7 @@ _<h4 align=center> "Stat maxxing my life" </h4>_
 
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
 
-> Shot description: I am a vivid explorer, I do competitive programming form 4 years, I work on OSS projects and have contributed a fair amount, my fav domains are - security and optimizations, I explore new things every now & then I hear about them, I follow my childhood dreams, I do photography photography.
+> Shot description: I am a vivid explorer, I do competitive programming from 4 years, I work on OSS projects and have contributed a fair amount, my fav domains are - security and optimizations, I explore new things every now & then I hear about them, I follow my childhood dreams, I walk around along with my camera sometimes - I overdo it sometimes.
 
 > **Not complaining about hard stuff is how cool stuff is done**. 
 
