@@ -2,6 +2,8 @@
 
 <h3 align=center> I use Arch, btw </h3> <br>
 
+<h4 align=center> _"Stat maxxing my life"_ </h4>
+ 
 **[`1924 @ CodeForces`](https://codeforces.com/profile/om_biradar)** **[`1971 @ LeetCode`](https://leetcode.com/u/OmBiradar/)** **[`LinkedIn`](https://www.linkedin.com/in/om-biradar-2b4a981bb/)**
 
 _Languages as my strengths_ : 
