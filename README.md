@@ -10,6 +10,10 @@ _<h4 align=center> "Stat maxxing my life" </h4>_
 
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
 
+> Shot description: I am a vivid explorer, I do competitive programming form 4 years, I work on OSS projects and have contributed a fair amount, my fav domains are - security and optimizations, I explore new things every now & then I hear about them, I follow my childhood dreams, I do photography photography.
+
+> **Not complaining about hard stuff is how cool stuff is done**. 
+
 -  **`C++`** - Really deep understanding thanks to _[`these slides`](https://github.com/federico-busato/Modern-CPP-Programming)_ also _vaste interview experience_, I do _competitive programing_ in C++.
 -  **`Python`** - Good. I aim to develop _architectural understanding_ of complex Python only libraries.
 -  **`Go`** - never used it beyond usual projects, would love to explore.
