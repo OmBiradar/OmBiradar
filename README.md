@@ -7,9 +7,9 @@ _<h4 align=center> "Stat maxxing my life" </h4>_
 **[`1924 @ CodeForces`](https://codeforces.com/profile/om_biradar)** **[`1971 @ LeetCode`](https://leetcode.com/u/OmBiradar/)** **[`LinkedIn`](https://www.linkedin.com/in/om-biradar-2b4a981bb/)**
 
 _Languages as my strengths_ : 
--  **`C++`** - Readdy good understanding thanks to _[`these slides`](https://github.com/federico-busato/Modern-CPP-Programming)_ also _vaste interview experience_, I also do _competitive programing_ in C++ itself.
--  **`Python`** - Good as I aim to develop _architectural understanding_ of complex Python only libraries.
--  **`Go`** - never used it beyong general tasks, would love to explore.
+-  **`C++`** - Readdy good understanding thanks to _[`these slides`](https://github.com/federico-busato/Modern-CPP-Programming)_ also _vaste interview experience_, I do _competitive programing_ in C++.
+-  **`Python`** - Good. I aim to develop _architectural understanding_ of complex Python only libraries.
+-  **`Go`** - never used it beyond usual projects, would love to explore.
 -  **`Rust`** - still too new to me as it has a bit of _error free_ `C++` approach.
 
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
