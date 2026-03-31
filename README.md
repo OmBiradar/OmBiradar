@@ -6,6 +6,8 @@ _<h4 align=center> "Stat maxxing my life" </h4>_
  
 **[`1924 @ CodeForces`](https://codeforces.com/profile/om_biradar)** **[`1971 @ LeetCode`](https://leetcode.com/u/OmBiradar/)** **[`LinkedIn`](https://www.linkedin.com/in/om-biradar-2b4a981bb/)** 
 
+**`Upcoming SWE at`** **[`NatWest Group`](https://www.natwestgroup.com/)**
+
 **`LFX Mentee`** at **[`RSTUF`](https://github.com/repository-service-tuf/repository-service-tuf)**
 
 -  **`C++`** - Really deep understanding thanks to _[`these slides`](https://github.com/federico-busato/Modern-CPP-Programming)_ also _vaste interview experience_, I do _competitive programing_ in C++.
