@@ -1,25 +1,25 @@
 📍 Indian Institute of Technology, Varanasi
 
-## I use Arch, btw
+## _I use Arch, btw_
 
+[CodeForces](https://codeforces.com/profile/om_biradar) [LeetCode](https://leetcode.com/u/OmBiradar/) [LinkedIn](https://www.linkedin.com/in/om-biradar-2b4a981bb/)
   
 Been:
 - **LFX Mentee** at [RSTUF](https://github.com/repository-service-tuf/repository-service-tuf)
 
-Stuff I did...
 
-- **Paper Implementation** 
-    - Key distribution in Quantum Key Distribution systems | [Paper](https://ieeexplore.ieee.org/document/10380212) | [Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
+**Research Paper Implementation** 
+  - Key distribution in Quantum Key Distribution systems | [Paper](https://ieeexplore.ieee.org/document/10380212) | [Code](https://github.com/OmBiradar/MATN/blob/main/main.ipynb)
 
-- **backend systems**
-    - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of iLovePDF 
-    - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
+Some cool **backend systems**
+  - [MyLoveForPDFs](https://github.com/OmBiradar/my-love-for-pdfs) - a clone of iLovePDF 
+  - [Web Auth](https://github.com/OmBiradar/golang_secure_login_portal) in Go
 
-- **Machine Learning**
-    - Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
-    - ResNET-based Pneumonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
+Some **Machine Learning** stuff
+  - Rag chains of different levels of complexity - [RagChain](https://github.com/OmBiradar/ragchain)
+  - ResNET-based Pneumonia detection from chest X-rays - [Pneumonia](https://github.com/OmBiradar/Pneumonia-DL-ResNet)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" alt="npm logo" width="40" style="vertical-align:middle"> **packages**
+**npm packages** (made for fun)
   - [`dad-jokes`](https://www.npmjs.com/package/@ombiradar/dad-jokes) - creative one liner jokes
 
 <!-- - **Cryptographic**
