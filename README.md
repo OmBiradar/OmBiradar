@@ -1,3 +1,5 @@
+> Now moved on to a new profile - [PhaseXZ](https://github.com/phasexz)
+
 📍 Indian Institute of Technology, Varanasi
 
 <h3 align=center> I use Arch, btw </h3>
